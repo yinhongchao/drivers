@@ -1,0 +1,10 @@
+kernel/drivers/net/mii.ko
+kernel/drivers/net/ppp_generic.ko
+kernel/drivers/net/ppp_async.ko
+kernel/drivers/net/ppp_synctty.ko
+kernel/drivers/net/slhc.ko
+kernel/drivers/net/can/can-dev.ko
+kernel/drivers/net/phy/libphy.ko
+kernel/drivers/net/usb/dm9601.ko
+kernel/drivers/net/usb/usbnet.ko
+kernel/drivers/net/usb/dm9620.ko

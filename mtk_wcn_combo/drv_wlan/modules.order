@@ -1,0 +1,2 @@
+kernel/drivers/mtk_wcn_combo/drv_wlan/wlan/wlan.ko
+kernel/drivers/mtk_wcn_combo/drv_wlan/p2p/p2p.ko

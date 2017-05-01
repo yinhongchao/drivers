@@ -1,0 +1,2 @@
+kernel/drivers/regulator/fixed.ko
+kernel/drivers/regulator/s5m8767.ko

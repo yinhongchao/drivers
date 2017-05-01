@@ -1,0 +1,1 @@
+cmd_drivers/mtk_wcn_combo/common/mtk_stp_wmt.ko := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/holly/code/itop4412_kernel/scripts/module-common.lds --build-id  -o drivers/mtk_wcn_combo/common/mtk_stp_wmt.ko drivers/mtk_wcn_combo/common/mtk_stp_wmt.o drivers/mtk_wcn_combo/common/mtk_stp_wmt.mod.o

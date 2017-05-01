@@ -1,0 +1,2 @@
+kernel/drivers/mtk_wcn_combo/drv_fm/private/mtk_fm_priv.ko
+kernel/drivers/mtk_wcn_combo/drv_fm/public/mt6620_fm_drv.ko

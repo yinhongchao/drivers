@@ -1,0 +1,2 @@
+kernel/drivers/input/touchscreen/tsc2007.ko
+kernel/drivers/input/touchscreen/ft5x06_ts.ko

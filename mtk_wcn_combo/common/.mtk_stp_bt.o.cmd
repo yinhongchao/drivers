@@ -1,0 +1,1 @@
+cmd_drivers/mtk_wcn_combo/common/mtk_stp_bt.o := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/mtk_wcn_combo/common/mtk_stp_bt.o drivers/mtk_wcn_combo/common/linux/stp_chrdev_bt.o 
